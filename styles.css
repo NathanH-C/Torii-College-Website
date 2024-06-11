@@ -1,0 +1,61 @@
+body{   /*this body section will add styles to the whole page*/
+    background-color: rgb(35, 229, 255); /*This changes the background colour*/
+    text-align: center; /*This piece of code makes all content center in to the middle*/
+    
+} 
+
+
+
+.top{
+    background-color: rgb(44, 255, 202);
+    height: 250px;
+    width: 100%;
+
+}
+
+.m{
+    
+    height: 300px;
+    width: 60%;
+    float: left;
+}
+
+
+
+
+nav{
+    background-color: rgb(42, 195, 255);
+    width: 80%;
+    height: 50px;
+    margin-left: 5%;
+    margin-top: 1%;
+}
+
+ul{
+    list-style-type: none;
+}
+
+li{
+    float: left;
+}
+
+li a{
+    display: block;
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    text-decoration: none;
+    padding-top: 10px;
+    padding-left: 20px;
+}
+
+li a:hover {
+    color: aquamarine;
+}
+
+.test{float: left;
+height:40px;
+width:40px;
+padding-top:5px;}
+
+
